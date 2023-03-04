@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "moment": "^2.25.3",
-    "peerjs": "^1.2.0",
+    "peerjs": "^1.4.7",
     "vue": "^2.6.11",
     "vue-bem-cn": "^1.1.1",
     "vuex": "^3.1.3"
